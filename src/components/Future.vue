@@ -31,33 +31,26 @@
             margin: 0 auto 40px auto;
             text-align: center;
             .future__title {
-                font-size: 44px;
                 line-height: 62px;
                 margin-bottom: 42px;
-            }
-
-            .future__string {
-                font-size: 16px;
-                line-height: 27px;
-                color: #484C63;
             }
         }
 
         .main__banner__btn__container {
-            max-width: 339px;
-            margin: 0 auto;
+            display: flex;
+            justify-content: center;
             .about,
             .join {
                 height: 52px;
                 padding: 14px 32px;
             }
             .about {
-                max-width: 131px;
+                max-width: 145px;
                 margin-right: 20px;
             }
 
             .join {
-                max-width: 167px;
+                max-width: 185px;
             }
         }
     }

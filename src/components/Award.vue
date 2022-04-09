@@ -27,20 +27,17 @@
         justify-content: space-between;
         padding-top: 114px;
         padding-bottom: 78px;
-        max-width: 1566px;
+        max-width: 1600px;
         margin: 0 auto;
 
         .award__info__container {
             max-width: 452px;
 
             .award__info__title {
-                font-size: 44px;
-                line-height: 57px;
+                margin-bottom: 16px;
             }
+
             .award__info__paragraph {
-                font-size: 16px;
-                line-height: 27px;
-                color: #484C63;
                 max-width: 435px;
             }
         }

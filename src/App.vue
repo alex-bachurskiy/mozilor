@@ -42,6 +42,7 @@
 	font-size: 16px;
     line-height: 150%;
 	font-family: "Europe Bold";
+	padding: 14px 22px;
 	cursor: pointer;
 }
 
@@ -64,6 +65,8 @@
 body {
 	font-family: 'Europe Normal';
 	color: #484C63;
+	font-size: 16px;
+    line-height: 27px;
 	background: #fff;
 }
 
@@ -103,6 +106,8 @@ blockquote, dl, dd {
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Europe Bold";
 	color: #1A2578;
+	font-size: 44px;
+    line-height: 57px;
 }
 
 </style>

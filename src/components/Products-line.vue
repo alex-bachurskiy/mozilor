@@ -49,14 +49,7 @@
             text-align: center;
             margin-bottom: 97px;
             .products__line__title {
-                font-size: 44px;
-                line-height: 57px;
                 margin-bottom: 16px;
-            }
-            .products__line__title__string {
-                font-size: 16px;
-                line-height: 27px;
-                color: #484C63;
             }
         }
 

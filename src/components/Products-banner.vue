@@ -43,7 +43,7 @@ export default {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        max-width: 1566px;
+        max-width: 1600px;
         margin: 0 auto;
 
         .products__banner__info__container {
@@ -52,12 +52,11 @@ export default {
                 font-size: 48px;
                 line-height: 62px;
                 margin-bottom: 32px;
-                max-width: 467px;
+                max-width: 525px;
             }
             .products__banner__info__paragraph {
                 font-size: 22px;
                 line-height: 33px;
-                color: #484C63;
                 margin-bottom: 40px;
                 max-width: 450px;
             }

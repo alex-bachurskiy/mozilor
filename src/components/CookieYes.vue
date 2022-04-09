@@ -33,15 +33,12 @@
         margin-right: auto;
         margin-bottom: 31px;
         margin-left: auto;
-        max-width: 1566px;
+        max-width: 1600px;
 
         .cookieYes__info__container {
             max-width: 419px;
 
             .cookieYes__info__paragraph {
-                font-size: 16px;
-                line-height: 27px;
-                color: #484C63;
                 margin-top: 40px;
                 margin-bottom: 30px;
 

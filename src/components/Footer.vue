@@ -27,9 +27,9 @@
                                     About
                                 </h1>
                                 <div class="menu-item__container">
-                                    <router-link class="menu-item" to="/" exact>About us</router-link>
-                                    <router-link class="menu-item" to="/" exact>Career</router-link>
-                                    <router-link class="menu-item" to="/" exact>Contact</router-link>
+                                    <router-link class="menu-item" to="/about-us">About us</router-link>
+                                    <router-link class="menu-item" to="/">Career</router-link>
+                                    <router-link class="menu-item" to="/">Contact</router-link>
                                 </div>
                             </div>
                         </div>
@@ -82,14 +82,12 @@
             .footer__contact {
                 display: flex;
                 justify-content: space-between;
-                max-width: 1566px;
+                max-width: 1600px;
                 margin: 0 auto;
 
                 .footer__logo__info {
 
                     .footer__brand__info {
-                        font-size: 16px;
-                        line-height: 27px;
                         margin-top: 29px;
                         max-width: 287px;
                     }
@@ -163,7 +161,7 @@
             .footer__info {
                 display: flex;
                 justify-content: space-between;
-                max-width: 1566px;
+                max-width: 1600px;
                 margin: 0 auto;
 
                 .teams__text {

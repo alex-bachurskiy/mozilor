@@ -50,7 +50,7 @@ export default {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        max-width: 1566px;
+        max-width: 1600px;
         margin: 0 auto;
         .main__banner__info__container {
 
@@ -63,7 +63,6 @@ export default {
             .main__banner__info__paragraph {
                 font-size: 22px;
                 line-height: 33px;
-                color: #484C63;
                 margin-bottom: 40px;
                 max-width: 512px;
             }

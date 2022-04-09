@@ -32,7 +32,6 @@
         align-items: center;
         .brands__title {
             font-size: 36px;
-            line-height: 57px;
 
             span {
                 color: #BF0830;;

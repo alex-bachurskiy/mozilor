@@ -43,15 +43,7 @@
             margin-bottom: 113px;
 
             .innovation__title {
-                font-size: 44px;
-                line-height: 57px;
                 margin-bottom: 16px
-            }
-
-            .innovation__string {
-                font-size: 16px;
-                line-height: 27px;
-                color: #484C63;
             }
         }
 

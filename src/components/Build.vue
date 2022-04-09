@@ -32,26 +32,21 @@
         justify-content: space-between;
         padding-top: 110px;
         padding-bottom: 110px;
-        max-width: 1566px;
+        max-width: 1600px;
         margin: 0 auto;
 
         .build__info__container {
             max-width: 452px;
 
             .build__info__title {
-                font-size: 44px;
-                line-height: 57px;
+                margin-bottom: 16px;
             }
             .build__info__paragraph {
-                font-size: 16px;
-                line-height: 27px;
-                color: #484C63;
                 max-width: 435px;
-                margin-bottom: 16px;
+                margin-bottom: 25px;
             }
             .build__button {
                 height: 52px;
-                padding: 14px 22px;
                 width: 167px;
             }
         }
