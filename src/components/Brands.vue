@@ -24,7 +24,6 @@
     background: #fff;
     padding-top: 90px;
     padding-bottom: 147px;
-    border-bottom: 1px solid rgba(197, 203, 226, 0.5);
     
     &__container {
 

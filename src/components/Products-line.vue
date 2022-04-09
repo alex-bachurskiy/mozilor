@@ -37,7 +37,7 @@
 
 <style lang="scss" scoped>
 .products__line {
-
+    border-top: 1px solid rgba(197, 203, 226, 0.5);
     &__container {
         
         display: flex;
