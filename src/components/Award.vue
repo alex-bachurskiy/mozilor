@@ -27,7 +27,7 @@
         justify-content: space-between;
         padding-top: 114px;
         padding-bottom: 78px;
-        max-width: 1600px;
+        max-width: 1396px;
         margin: 0 auto;
 
         .award__info__container {

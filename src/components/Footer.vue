@@ -18,8 +18,8 @@
                                     Products
                                 </h1>
                                 <div class="menu-item__container">
-                                    <router-link class="menu-item" to="/products/#cookieYes">CookieYes</router-link>
-                                    <router-link class="menu-item" to="/products/#webtoffee">Webtoffee</router-link>
+                                    <p class="menu-item">CookieYes</p>
+                                    <p class="menu-item">Webtoffee</p>
                                 </div>
                             </div>
                             <div class="footer__menu">
@@ -29,7 +29,7 @@
                                 <div class="menu-item__container">
                                     <router-link class="menu-item" to="/about-us">About us</router-link>
                                     <router-link class="menu-item" to="/">Career</router-link>
-                                    <router-link class="menu-item" to="/">Contact</router-link>
+                                    <router-link class="menu-item" to="/contact">Contact</router-link>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +82,7 @@
             .footer__contact {
                 display: flex;
                 justify-content: space-between;
-                max-width: 1600px;
+                max-width: 1396px;
                 margin: 0 auto;
 
                 .footer__logo__info {
@@ -119,6 +119,7 @@
                                 font-size: 16px;
                                 line-height: 21px;
                                 margin-bottom: 20px;
+                                cursor: pointer;
 
                                 &:last-of-type {
                                     margin-bottom: 0;
@@ -161,7 +162,7 @@
             .footer__info {
                 display: flex;
                 justify-content: space-between;
-                max-width: 1600px;
+                max-width: 1396px;
                 margin: 0 auto;
 
                 .teams__text {

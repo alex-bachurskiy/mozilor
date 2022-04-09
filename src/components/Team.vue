@@ -28,7 +28,7 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-        max-width: 1600px;
+        max-width: 1396px;
         padding-bottom: 82px;
         margin: 0 auto;
 

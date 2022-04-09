@@ -16,18 +16,18 @@
                         <p class="products__line__paragraph">
                             Cookie consent solution for privacy compliance.
                         </p>
-                        <router-link class="products__line__btn transperent__btn__style btn" to="/products/#cookieYes">
+                        <div class="products__line__btn transperent__btn__style btn">
                             Learn more
-                        </router-link>
+                        </div>
                     </div>
                     <div class="products__line__info">
                         <img class="webtoffee" src="@/assets/pictures/webtoffee.png" alt="webtoffee-logo">
                         <p class="products__line__paragraph">
                             Plugins and extensions for eCommerce needs.
                         </p>
-                        <router-link class="products__line__btn transperent__btn__style btn" to="/products/#webtoffee">
+                        <div class="products__line__btn transperent__btn__style btn">
                             Learn more
-                        </router-link>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                 padding-top: 63.5px;
                 padding-left: 62px;
                 width: 538px;
-                height: 530px;
+                height: 560px;
 
                 &:nth-of-type(1) {
                     background: url(../assets/pictures/cookie__info.png);
@@ -96,7 +96,7 @@
                     line-height: 150%;
                     letter-spacing: 0.005em;
                     padding: 12px 46px;
-                    max-width: 143px;
+                    max-width: 185px;
                 }
             }
         }

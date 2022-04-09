@@ -10,7 +10,7 @@
                 <div class="menu__container">
                     <router-link class="menu-item" to="/products" exact>Products</router-link>
                     <router-link class="menu-item" to="/about-us">About us</router-link>
-                    <router-link class="menu-item" to="/">Contact</router-link>
+                    <router-link class="menu-item" to="/contact">Contact</router-link>
                     <div class="header__button btn main__btn__style">
                         We’re hiring 
                     </div>
@@ -28,7 +28,7 @@
         padding-top: 31.5px;
         display: flex;
         justify-content: space-between;
-        max-width: 1600px;
+        max-width: 1396px;
         margin: 0 auto;
 
         .menu__container {

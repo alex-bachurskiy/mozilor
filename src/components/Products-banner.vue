@@ -35,15 +35,11 @@ export default {
 .products__banner {
     background: linear-gradient(247.11deg, #E3E7F6 3.56%, rgba(227, 231, 246, 0) 115.17%);
 
-    .container {
-        padding-right: 122px;
-    }
-
     &__container {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        max-width: 1600px;
+        max-width: 1396px;
         margin: 0 auto;
 
         .products__banner__info__container {

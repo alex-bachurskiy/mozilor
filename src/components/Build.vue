@@ -32,7 +32,7 @@
         justify-content: space-between;
         padding-top: 110px;
         padding-bottom: 110px;
-        max-width: 1600px;
+        max-width: 1396px;
         margin: 0 auto;
 
         .build__info__container {

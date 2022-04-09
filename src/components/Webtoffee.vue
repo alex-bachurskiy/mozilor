@@ -34,7 +34,7 @@
         margin-right: auto;
         margin-bottom: 52px;
         margin-left: auto;
-        max-width: 1600px;
+        max-width: 1396px;
 
         .webtoffee__info__container {
             max-width: 419px;
