@@ -5,7 +5,9 @@
                 <div class="footer__contact__container">
                     <div class="footer__contact">
                         <div class="footer__logo__info">
-                            <img class="brands__logo" src="@/assets/pictures/mozilor.png" alt="mozilor-logo">
+                            <router-link class="menu-item" to="/">
+                                <img class="brands__logo" src="@/assets/pictures/mozilor.png" alt="mozilor-logo">
+                            </router-link>
                             <p class="footer__brand__info">
                                 Mozilor builds extensions, plugins and apps to simplify work for businesses. 
                             </p>
@@ -16,8 +18,8 @@
                                     Products
                                 </h1>
                                 <div class="menu-item__container">
-                                    <router-link class="menu-item" to="/" exact>CookieYes</router-link>
-                                    <router-link class="menu-item" to="/" exact>Webtoffee</router-link>
+                                    <router-link class="menu-item" to="/products/#cookieYes">CookieYes</router-link>
+                                    <router-link class="menu-item" to="/products/#webtoffee">Webtoffee</router-link>
                                 </div>
                             </div>
                             <div class="footer__menu">

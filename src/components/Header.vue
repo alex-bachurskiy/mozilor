@@ -2,11 +2,13 @@
     <div class="header">
         <div class="container">
             <div class="header__container">
-                 <div class="logo__container">
-                    <img class="brands__logo" src="@/assets/pictures/mozilor.png" alt="mozilor-logo">
+                <div class="logo__container">
+                    <router-link class="menu-item" to="/">
+                        <img class="brands__logo" src="@/assets/pictures/mozilor.png" alt="mozilor-logo">
+                    </router-link>
                 </div>
                 <div class="menu__container">
-                    <router-link class="menu-item" to="/" exact>Products</router-link>
+                    <router-link class="menu-item" to="/products" exact>Products</router-link>
                     <router-link class="menu-item" to="/" exact>About us</router-link>
                     <router-link class="menu-item" to="/" exact>Contact</router-link>
                     <div class="header__button btn main__btn__style">

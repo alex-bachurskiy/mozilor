@@ -28,7 +28,7 @@
 </template>
 
 <script>
-import Header from "../components/Header.vue";
+import Header from "./Header.vue";
 
 export default {
     name: "home",
@@ -41,6 +41,10 @@ export default {
 <style lang="scss" scoped>
 .main__banner {
     background: linear-gradient(252.91deg, #E3E7F6 3.68%, rgba(227, 231, 246, 0) 97.82%);
+
+    .container {
+        padding-right: 122px;
+    }
 
     &__container {
         display: flex;
@@ -67,9 +71,9 @@ export default {
                 display: flex;
                 .learn__button,
                 .work__button {
-                    padding: 14px 0;
                     height: 52px;
                     text-align: center;
+                    padding: 14px 0;
                 }
 
                 .learn__button {

@@ -1,8 +1,8 @@
 <template>
     <div class="home">
-        <Main/>
+        <MainBanner/>
         <Brands/>
-        <Product/>
+        <ProductsLine/>
         <Award/>
         <Innovation/>
         <Build/>
@@ -11,9 +11,9 @@
 </template>
 
 <script>
-import Main from "../components/Main.vue";
+import MainBanner from "../components/Main-banner.vue";
 import Brands from "../components/Brands.vue";
-import Product from "../components/Product.vue";
+import ProductsLine from "../components/Products-line.vue";
 import Award from "../components/Award.vue";
 import Innovation from "../components/Innovation.vue";
 import Build from "../components/Build.vue";
@@ -22,9 +22,9 @@ import Footer from "../components/Footer.vue";
 export default {
     name: "home",
     components: {
-        Main,
+        MainBanner,
         Brands,
-        Product,
+        ProductsLine,
         Award,
         Innovation,
         Build,
