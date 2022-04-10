@@ -42,7 +42,7 @@ export default {
         align-items: center;
         display: flex;
         justify-content: space-between;
-        max-width: 1396px;
+        max-width: 1356px;
         margin: 0 auto;
         .contact__banner__info__container {
             max-width: 470px;

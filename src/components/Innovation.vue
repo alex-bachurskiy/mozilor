@@ -25,6 +25,9 @@
                             <img class="logo" src="@/assets/pictures/css.png" alt="css-logo">
                         </div>
                     </div>
+                    <div class="innovation__arrow">
+                        <img class="arrows" src="@/assets/pictures/arrows.png" alt="arrows">
+                    </div>
                 </div>
             </div>
         </div>
@@ -50,12 +53,13 @@
         .innovation__brands__container {
             display: flex;
             flex-direction: column;
+            max-width: 1187px;
+            margin: 0 auto;
 
-            &::after {
-                content: url(../assets/pictures/arrows.png);
-                cursor: pointer;
+            .innovation__arrow {
                 margin-top: 45px;
-                margin-left: 220px;
+                margin-left: 37px;
+                cursor: pointer;
             }
 
             .innovation__logo__container {

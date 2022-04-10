@@ -28,7 +28,7 @@
         padding-top: 31.5px;
         display: flex;
         justify-content: space-between;
-        max-width: 1396px;
+        max-width: 1356px;
         margin: 0 auto;
 
         .menu__container {

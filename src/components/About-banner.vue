@@ -35,17 +35,13 @@ export default {
 .about__banner {
     background: linear-gradient(247.11deg, #E3E7F6 3.56%, rgba(227, 231, 246, 0) 115.17%);
 
-    .container {
-        padding-right: 122px;
-    }
-
     &__container {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        max-width: 1396px;
+        padding-bottom: 10px;        
+        max-width: 1356px;
         margin: 0 auto;
-        padding-bottom: 10px;
 
         .about__banner__info__container {
             max-width: 447px;

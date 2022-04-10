@@ -33,8 +33,8 @@
 }
 
 .container {
-	padding-right: 163px;
-	padding-left: 170px;
+	padding-right: 166px;
+	padding-left: 166px;
 }
 
 .btn {

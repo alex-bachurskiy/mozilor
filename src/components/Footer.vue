@@ -28,7 +28,7 @@
                                 </h1>
                                 <div class="menu-item__container">
                                     <router-link class="menu-item" to="/about-us">About us</router-link>
-                                    <router-link class="menu-item" to="/">Career</router-link>
+                                    <router-link class="menu-item" to="/career">Career</router-link>
                                     <router-link class="menu-item" to="/contact">Contact</router-link>
                                 </div>
                             </div>

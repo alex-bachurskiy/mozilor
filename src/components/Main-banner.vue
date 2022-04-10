@@ -46,8 +46,9 @@ export default {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        max-width: 1396px;
+        max-width: 1356px;
         margin: 0 auto;
+        
         .main__banner__info__container {
 
             .main__banner__info__title {
